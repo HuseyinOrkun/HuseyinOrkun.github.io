@@ -14,4 +14,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Hüseyin, I graduated from computer science in 2020 from Bilkent Unversity and I am completing my M.S., degree in Neuroscience at Bilkent Univeristy in Turkey. 
+Hi! I am Hüseyin, I graduated from computer science in 2020 from Bilkent Unversity and I am completing my M.S., degree in Neuroscience at Bilkent Univeristy in Turkey.
+
