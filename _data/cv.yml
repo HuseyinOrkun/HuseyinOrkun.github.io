@@ -2,96 +2,103 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hüseyin Orkun Elmas
     - name: Date of Birth
-      value: 14th March 1879
+      value: 16th March 1997
     - name: Languages
-      value: English, German
+      value: Turkish, English 
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S in Neuroscience
+      institution: Bilkent University, Ankara, Turkey
+      year: Sep. 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - GPA 3.87/4 Summa Cum Laude.
+    - title: Special Student in Neuroscience 
+      institution: Bilkent University, Ankara, Turkey
+      year: Jan. 2020 - June 2020
+    - title: B.S., Computer Science
+      institution: Bilkent University, Ankara, Turkey
+      year: 2015-2020
       description:
-        - Description 1.
-        - Description 2.
+        - GPA 3.70/4 Magna Cum Laude.
+    - title: Exchange Semester, 
+      institution: Vrije University Amsterdam, Netherlands
+      year: 2018
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Researcher at Urgen Lab
+      institution: Neuroscience, Bilkent University
+      year: Jan. 2019 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Effects of Prediction on Biological Motion Perception.
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Contributed to the design of a series of decision making experiments using biological motion and prediction paradigm.
+            - Used drift diffusional models and bayesian modelling for analysis of RT data. Implemented scripts for statistical comparisons of different models.
+            - Designed and implemented a follow up EEG experiment using a similar paradigm. Collected EEG data from more than 30 participants. Trained interns on EEG and behavioral data collection.
+            - Proposed and implemented a custom preprocessing pipeline using EEGLAB, MNE and Autoreject.
+            - Analyzed EEG data using univariate and multivariate analysis techniques with MNE-Python.
+            - Contributed to the writing of progress reports for the funding body.
+        - title: Temporal Characteristics of Agent PerceptionTemporal Characteristics of Agent Perception
+          contents:
+            - Gained experience in using representational similarity analysis and implemented a temporal variant for EEG data using Python and Matlab
+            - Explored the temporal characteristics of agent perception using representational similarity analysis, multiple linear regression on raw EEG data. 
+            - Contributed to manuscript preparation process.
+        - title: Investigation of Processing of Observed Actions using sEEG Data
+          contents:
+          - Contributed to the analysis of sEEG data from involving 40 patients using classification, regression and decoding with MNE-Python. 
+          - Involved in decision making on the choice of the data analysis method.
+
+    - title: Junior Data Scientist
+      institution: Databoss Security and Analytics Ankara, Turkey.
+      year: July - Nov. 2018
       description:
-        - Description 1.
-        - Description 2.
+          contents:
+          - Worked on anomaly and event detection from social media data using Python.
+          - Built and experimented with different models that identify irregularities in time-series data.
+          - Built and used APIs to communicate with big data team.
+          - Worked on graph machine learning algorithms. 
+          - Contributed to writing for project milestone documents.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Undergraduate Volunteer Researcher
+      institution: Bilkent University, Ankara
+      year: June - Feb. 2017
       description:
+        contents:
+          - Took a part in the research of M.S. student Mert Sarıyıldız under the supervision of Gökberk Cinbis.
+          - Used Tensorflow on Python to build a zero-shot learning model using TensorFlow.
+          - Contributed to Python implementation of an evaluation framework for zero shot learning.
+    - title:  Cloud Intern of Theoretical Physics
+      institution: IBM, Istanbul, Turkey
+      year: July - Aug. 2017
+      description:
+        contents:
+          - Used Artificial Intelligence services of IBM to build useful apps.omer's services of customer companies
+          - Worked on IoT with cloud using pervasive computing
+          - Work on implementing Telegram and Facebook bots for customer's services of customer companies
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Peer Reviewed Conference Presentations & Workshop/Seminer Presentations
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Hüseyin O. Elmas</b>, Berfin Aydın, Sena Er, Ada D. Rezaki, Ayşesu İzgi, Buse M. Urgen, Huseyin Boyaci, Burcu A. Urgen. The effect of prior knowledge on biological motion perception. V-VSS, 2022. \textit{( Accepted to the VSS, could not attend in person due to visa issues.)}
+
+    - <b>Hüseyin O. Elmas</b>, Sena Er, Ayse P. Saygin, Burcu A. Urgen. Temporal characteristics of visual processing of agents in action observation. ECVP 2021.
+
+    - Sena Er, <b>Hüseyin O. Elmas</b>, Ayse P. Saygin, Burcu A. Urgen. The effect of prior knowledge on visual processing of agents:</u> Time-resolved representational similarity analysis on EEG data. SfN Global Connectome, 2020.
+
+    - <b>Hüseyin O. Elmas</b>, Sena Er, Ayse P. Saygin, Burcu A. Urgen. The effect of prior knowledge on visual processing of agents:</u> Time-resolved representational similarity analysis on EEG data. 18th National Neuroscience Congress, 2020.
+
+    - <b>Hüseyin O. Elmas</b>, Sena Er, Ayse P. Saygin, Burcu A. Urgen. Temporal characteristics of visual processing of actions:</u> Time-resolved RSA on EEG data. 7th International Symposium on Brain and Cognitive Science, 2020.
+    - Advanced EEG analysis techniques:</u>  Representational Similarity Analysis, lecture as final part of the Usage of EEG in Cognitive Neuroscience Research:</u> Basic and Advanced Analysis Techniques workshop presented by Burcu A. Urgen, Berfin Aydın, Hilal Nizamoglu, Sena Er, <b>Hüseyin O. Elmas</b>
+    - Classification of agents from EEG in action perception presented by <b>Hüseyin O. Elmas</b>, Sena Er, Doren Calliku. Cognitive Psychology and Science Meeting at TED University
+- title: Awards and Scholarships
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Domestic Graduate Scholarship Award (BİDEB 2210/A) by The Scientific and Technological Research Council of Turkey(TÜBİTAK). 
+        - Graduation with High-Honor Student Award
