@@ -45,13 +45,13 @@
             - Contributed to the writing of progress reports for the funding body.
         - title: Temporal Characteristics of Agent PerceptionTemporal Characteristics of Agent Perception
           contents:
-            - Used representational similarity analysis (rsa) and implemented a temporal variant for EEG data using Python and Matlab
+            - Used representational similarity analysis (RSA) and implemented a temporal variant for EEG data using Python and Matlab
             - Used different classification algorithms to decode EEG signal and analyzed patterns of classfication performance.
-            - Explored the temporal characteristics of agent perception using rsa and multiple linear regression on raw EEG data. 
+            - Explored the temporal characteristics of agent perception using RSA and multiple linear regression on raw EEG data. 
             - Contributed to manuscript preparation process.
         - title: Investigation of Processing of Observed Actions using sEEG Data
           contents:
-          - Contributed to the analysis of sEEG data from involving 40 patients using classification, regression and decoding with MNE-Python. 
+          - Contributed to the analysis of sEEG data from involving 40 patients using GLMs, regression and decoding with MNE-Python. 
           - Involved in decision making on the choice of the data analysis method.
 
     - title: Junior Data Scientist
