@@ -21,12 +21,12 @@
       year: Jan. 2020 - June 2020
     - title: B.S., Computer Science
       institution: Bilkent University, Ankara, Turkey
-      year: 2015-2020
+      year: Sep. 2015 - Jan. 2020
       description:
         - GPA 3.70/4 Magna Cum Laude.
     - title: Exchange Semester, 
       institution: Vrije University Amsterdam, Netherlands
-      year: 2018
+      year: Jan. 2018 - June 2018
 
 - title: Experience
   type: time_table
@@ -38,15 +38,16 @@
         - title: Effects of Prediction on Biological Motion Perception.
           contents:
             - Contributed to the design of a series of decision making experiments using biological motion and prediction paradigm.
-            - Used drift diffusional models and bayesian modelling for analysis of RT data. Implemented scripts for statistical comparisons of different models.
+            - Used drift diffusional models and bayesian modelling for analysis of RT data. Implemented scripts for statistical comparisons of different models in Python and R.
             - Designed and implemented a follow up EEG experiment using a similar paradigm. Collected EEG data from more than 30 participants. Trained interns on EEG and behavioral data collection.
-            - Proposed and implemented a custom preprocessing pipeline using EEGLAB, MNE and Autoreject.
+            - Proposed and implemented a custom preprocessing pipeline using EEGLAB, MNE-Python and Autoreject.
             - Analyzed EEG data using univariate and multivariate analysis techniques with MNE-Python.
             - Contributed to the writing of progress reports for the funding body.
         - title: Temporal Characteristics of Agent PerceptionTemporal Characteristics of Agent Perception
           contents:
-            - Gained experience in using representational similarity analysis and implemented a temporal variant for EEG data using Python and Matlab
-            - Explored the temporal characteristics of agent perception using representational similarity analysis, multiple linear regression on raw EEG data. 
+            - Used representational similarity analysis (rsa) and implemented a temporal variant for EEG data using Python and Matlab
+            - Used different classification algorithms to decode EEG signal and analyzed patterns of classfication performance.
+            - Explored the temporal characteristics of agent perception using rsa and multiple linear regression on raw EEG data. 
             - Contributed to manuscript preparation process.
         - title: Investigation of Processing of Observed Actions using sEEG Data
           contents:
@@ -57,7 +58,6 @@
       institution: Databoss Security and Analytics Ankara, Turkey.
       year: July - Nov. 2018
       description:
-          contents:
           - Worked on anomaly and event detection from social media data using Python.
           - Built and experimented with different models that identify irregularities in time-series data.
           - Built and used APIs to communicate with big data team.
@@ -68,17 +68,15 @@
       institution: Bilkent University, Ankara
       year: June - Feb. 2017
       description:
-        contents:
           - Took a part in the research of M.S. student Mert Sarıyıldız under the supervision of Gökberk Cinbis.
           - Used Tensorflow on Python to build a zero-shot learning model using TensorFlow.
           - Contributed to Python implementation of an evaluation framework for zero shot learning.
-    - title:  Cloud Intern of Theoretical Physics
+    - title:  Cloud Intern
       institution: IBM, Istanbul, Turkey
       year: July - Aug. 2017
       description:
-        contents:
           - Used Artificial Intelligence services of IBM to build useful apps.omer's services of customer companies
-          - Worked on IoT with cloud using pervasive computing
+          - Worked on IoT with cloud using pervasive computing.
           - Work on implementing Telegram and Facebook bots for customer's services of customer companies
 
 - title: Peer Reviewed Conference Presentations & Workshop/Seminer Presentations
