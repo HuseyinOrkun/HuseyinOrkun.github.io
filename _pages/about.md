@@ -9,18 +9,22 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Thomas van Aquinostraat 4</p>
+    <p>6525 GD NIJMEGEN</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi, I'm Hüseyin Orkun Elmas!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a PhD student at Donders Center for Cognition, Sensorimotor Neuroscience, diving into the fascinating world of sensorimotor neuroscience. My academic roots are in Ankara, Turkey, where I earned my Master's in neuroscience at Bilkent University. During my time there, I was deeply involved in research that focused on the intersection of biological motion perception and predictive processing. We utilized EEG and behavioral techniques to unravel how prior information influences our perception of biological motion. Now, at DCC, I'm taking a dive into the realm of tactile localization. My current research revolves around modeling the neurocomputations involved in tactile localization in external space. I am aiming to shed light on the neural implementations that underlie these computations. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside the lab, I'm all love embracing life's adventures. Whether it's hitting the trails for a hike, enjoying a peaceful camping trip, tackling a bouldering challenge, or strumming some tunes on my guitar, I'm there. I also have a soft spot for the arts, especially theater and live music.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In the world outside my research, I have a bunch of hobbies that keep me balanced. I really enjoy getting outdoors — hiking and camping are my go-to activities for unwinding. There's something about being in nature that just feels right. And then there's theater and music; I'm always up for a live show. It's amazing how a great performance can just lift your spirits.
+
+I've also started bouldering recently. It's tough but super rewarding, especially when you finally make that climb you've been struggling with. And on the quieter side of things, I'm teaching myself to play the guitar. I'm still a very big beginner, but I'm improving, one chord at a time.
+
+If you're intrigued by the wonders of neuroscience or share a love for the outdoors and arts, let's connect and explore these passions together!
