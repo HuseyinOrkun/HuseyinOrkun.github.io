@@ -20,6 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey there! My name is Hüseyin Orkun Elmas, and I'm a PhD candidate at the Donders Center for Cognition, Sensorimotor Neuroscience.
 
+
 Currently, I'm working at the Donders Centre for Cognitive Neuroscience (DCC) supervised by Dr. Luke Miller and Prof. Pieter Medendorp. My main area of interest is neurocomputational mechanisms involved in mapping tactile input from skin space to external space. I'm particularly interested in studying how we represent, and transform tactile information with visual and proprioceptive information. I'm also interested in the role of uncertainty in sensory processing, how the brain uses probabilistic inference to make predictions about the world, and creating computational and probabilistic models of these processes.
 
 I completed my Bachelor's in Computer Science and Master's in Neuroscience at Bilkent University. My research focused on the relationship between biological motion perception and predictive processing. Specifically, I was interested in how prior information influenced the processing, representation and perception of biological motion. I used EEG, RSA, temporal generalization and behavioral techniques to explore how our prior knowledge shapes how we perceive biological motion.
@@ -28,3 +29,4 @@ I completed my Bachelor's in Computer Science and Master's in Neuroscience at Bi
 Other than research, I enjoy spending time outdoors, watching films, and listening to music. Recently, I've also started bouldering, I like the kinesthetic, bodily problem-solving aspect of it. Besides that, I'm teaching myself to play the guitar. Although I'm still a beginner!
 
 Please feel free to reach out to me anytime!
+
